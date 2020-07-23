@@ -49,7 +49,7 @@ f5.pack(side=BOTTOM)
 myButton = Button(root, text="Search" , command=find)
 myButton.pack()
 
-credits_label = Label(f5, text=' '*8 + 'Developed by Kirishanth parameswaran', bg='#1959c1', fg='#eff0f2', width=48)
+credits_label = Label(f5, text=' '*8 + 'Developed by 8888', bg='#1959c1', fg='#eff0f2', width=48)
 credits_label.pack(side=RIGHT)
 
 root.mainloop()
